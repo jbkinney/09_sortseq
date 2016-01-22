@@ -5,4 +5,4 @@ If you want a single best model for RNAP and CRP use the following:
 
 RNAP: models_txt/rnap_tau_final_all.41.txt
 
-CRP: RNAP: models_txt/crp_tau_final_all.26.txt
+CRP: models_txt/crp_tau_final_all.26.txt
